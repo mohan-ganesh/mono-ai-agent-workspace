@@ -171,6 +171,15 @@
             <mxPoint x="750" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FRVnF-36FMK7jDI90hs_-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;verticalAlign=bottom;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="140" width="132" x="940" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FRVnF-36FMK7jDI90hs_-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Domain API&#39;s" vertex="1">
+          <mxGeometry height="30" width="80" x="966" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FRVnF-36FMK7jDI90hs_-51" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="981" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
