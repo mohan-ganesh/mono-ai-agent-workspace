@@ -62,7 +62,10 @@
           <mxGeometry height="20.6025" width="19.08" x="130" y="141.89999999999998" as="geometry" />
         </mxCell>
         <mxCell id="FRVnF-36FMK7jDI90hs_-15" parent="mcp_server_box" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCP Server - Commercial Bank" vertex="1">
-          <mxGeometry height="27" width="140" x="20" y="11.996999999999998" as="geometry" />
+          <mxGeometry height="27" width="150" x="10" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="FRVnF-36FMK7jDI90hs_-53" parent="mcp_server_box" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internal Only" vertex="1">
+          <mxGeometry height="30" width="79" x="101" y="75" as="geometry" />
         </mxCell>
         <mxCell id="list_tool" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C4DE;strokeColor=#6c8ebf;" value="List Tools" vertex="1">
           <mxGeometry height="30" width="80" x="706" y="490" as="geometry" />
@@ -147,6 +150,9 @@
         </mxCell>
         <mxCell id="FRVnF-36FMK7jDI90hs_-21" parent="FRVnF-36FMK7jDI90hs_-17" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C4DE;strokeColor=#6c8ebf;" value="Call Tool" vertex="1">
           <mxGeometry height="30" width="80" x="-23" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FRVnF-36FMK7jDI90hs_-52" parent="FRVnF-36FMK7jDI90hs_-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internal Only" vertex="1">
+          <mxGeometry height="30" width="79" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="FRVnF-36FMK7jDI90hs_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C4DE;strokeColor=#6c8ebf;" value="List Tools" vertex="1">
           <mxGeometry height="30" width="80" x="710" y="260" as="geometry" />
